@@ -51,11 +51,6 @@ Open the provided local URL in your browser to use the app.
 - For PDF export, install `fpdf`.
 - For DOCX export, install `python-docx`.
 - Your API key is required for Gemini LLM features.
-
-## License
-
-MIT License
-
 ---
 
 Made with ❤️ using Streamlit.
